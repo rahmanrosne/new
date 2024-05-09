@@ -1,0 +1,26 @@
+.container{
+    width: 100%;
+    display: flex;
+    
+
+}
+.right-section{
+width: 60%;
+padding-left: 70px;
+padding-top: 90px;
+
+}
+.left-section{
+    width: 40%;
+    padding-top: 50px;
+    padding-left: 0;
+    margin: 0;
+    
+}
+p{
+    padding-top: 40px;
+    width: 650px;
+}
+ul,li{
+    padding-top: 20px;
+}
